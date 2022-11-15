@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1668467430 "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.tex" "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.pdf" "resume" 1668467431
-  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.aux" 1668467430 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.tex" 1668467429 5577 d3c0011a23452df11ff1f619f83c193c ""
+["pdflatex"] 1668547125 "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.tex" "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.pdf" "resume" 1668547125
+  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.aux" 1668547125 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.tex" 1668547124 5564 d30024204b187a2558063c2083aeae8f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -64,14 +64,14 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "resume.aux" 1668467430 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "resume.aux" 1668547125 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
   "resume.cls" 1638394418 4797 483cbfa77a995214b6d63abf031893e3 ""
-  "resume.out" 1668467430 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1668467429 5577 d3c0011a23452df11ff1f619f83c193c ""
+  "resume.out" 1668547125 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1668547124 5564 d30024204b187a2558063c2083aeae8f ""
   (generated)
-  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.pdf"
-  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.log"
   "resume.log"
-  "resume.pdf"
   "resume.out"
+  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.log"
   "resume.aux"
+  "resume.pdf"
+  "/Users/zthornto/Desktop/career-stuff/resume-tex/resume.pdf"
